@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>添客宝</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIcons</key>
+	<dict/>
+	<key>CFBundleIcons~ipad</key>
+	<dict/>
+	<key>CFBundleIdentifier</key>
+	<string>com.baoyuan.tiankebao</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>添客宝</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.3</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>zhifubao</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>BaoYuanWeiPeng</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1.3</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>Partner</key>
+	<string>2088011708715400</string>
+	<key>RSA private key</key>
+	<string>MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBAJ62wpd/bXGwaA0i/6I+IG0cYvM/GhiUjpXofg8RlfFLf0SoNAFHQn318ZjbmDGPIBWDWHEM2Yhvuyv7XZCiGsBI6E6YHs8S6xN5wYNtKKSF0gd1BRIutqw3zcQJ+ztUDqhlZdAywO9pTp69c98vARh1rzxVEbA6rRsmvFaE1gcXAgMBAAECgYB7urh6yJF2pvKHAzjMr6gxx4ZwYUojzXRW83eKocgF4zhlOsfIE1iHv/tHkjHUuOJnQwzonP7c+VWuVPi9L1KwSAcIcYLRHeAGiIwJTXTMh0zTXEAhdpo1z4Dsh0RGE6jYsZ4gnLuTVKVDVXGI5IlZFLz9tv678mGPoRaoE1omoQJBAM5kuGby0nwe/8oQ1trXlDmdTFiDKFi1CBOQmZpmmrCaCG5PoD+MA03YZq4NDTSHFOhoD/OAFe5MGtzHtrayU2cCQQDE3Ffht2Prqsn7RKenU2x7wqy+0hDD4mwy6p/4Wk02ErWrR/tvFaKnoJG6PvqN8HkU5sF+X3I8zFbvYuXvOpDRAkEAnuFmGsn+QlJSsih4XQrrLdbq+JAutOrXBsiflf46QoywxMpDH+gWewyFLqMZcUAzVh0Vems1drXbT+3lt4pbLQJALKYNCJSfhQPna6XWoIy7PhaZN25NfyALikDMp3dTq7/ylDZvQHKXwY0ZgDRof2jbDXKI0DC1qDRwQzsbC3ctAQJBAJ7L8gLtkDdORNLt/9wODaFioLtL1KPsLWwCfl6apqFqENORPiDZnSXrn4fToJ3eoydoEphuvlg/aLoItvLKI1I=</string>
+	<key>RSA public key</key>
+	<string>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCetsKXf21xsGgNIv+iPiBtHGLzPxoYlI6V6H4PEZXxS39EqDQBR0J99fGY25gxjyAVg1hxDNmIb7sr+12QohrASOhOmB7PEusTecGDbSikhdIHdQUSLrasN83ECfs7VA6oZWXQMsDvaU6evXPfLwEYda88VRGwOq0bJrxWhNYHFwIDAQAB</string>
+	<key>Seller</key>
+	<string>wswlzfb@126.com</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+</dict>
+</plist>

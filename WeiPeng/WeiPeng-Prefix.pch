@@ -1,0 +1,65 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <CoreData/CoreData.h>
+#import <AlipaySDK/AlipaySDK.h>
+
+#endif
+
+#define URL_HTTP    @"http://mobile.wp99.cn/"
+
+#define MEMBERID [[NSUserDefaults standardUserDefaults] objectForKey:@"userID"]
+
+//#define QQ_APP_ID    @"100505799"
+
+//#define QQ_CLIENT_SECRET   @"63366d91cbf5783fc0fc7e47eb37bdf7"
+
+//#define kSINAAppKey         @"1943023843"
+
+//#define SINA_CLIENT_SECRET  @"65bef7074174df1386d2293ebb03a527"
+
+#define kSINARedirectURI   @"http://www.vepu.net/vepu/"
+//http://122.114.50.113:48094/mall-wop/api
+//#define HTTP @"http://116.255.227.139:18080/wop/api"
+//#define HTTP @"http://122.114.50.113:48094/mall-wop/api"
+#define HTTP @"http://121.41.26.127:48094/mall-wop/api"
+
+#define NAVIGATION_HEIGHT  64
+
+#define TABBAR_HEIGHT  49
+
+#define HEIGHT ([UIScreen mainScreen].bounds.size.height)
+
+#define WIDTH  ([UIScreen mainScreen].bounds.size.width)
+
+#define IOS7   ([[[UIDevice currentDevice]systemVersion]floatValue]>=7?YES:NO)
+
+#define BACKGROUND_COLOR [UIColor colorWithRed:238.0/255.0 green:238.0/255.0 blue:238.0/255.0 alpha:1.0]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

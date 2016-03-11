@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FCAE1D15-DB73-4A6A-ADAB-F938A51F6BBD</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>78c70b76-848c-4f24-a5c4-52142edf5036++980</key>
+		<string>http://www.svnchina.com/svn/lanouhn04/team10/DressMatch/DressMatch/ThirdPart/AFNetworking</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>78c70b76-848c-4f24-a5c4-52142edf5036++980</key>
+		<string>AFNetworking/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>78c70b76-848c-4f24-a5c4-52142edf5036++980</key>
+		<string>http://www.svnchina.com/svn/lanouhn04</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://www.svnchina.com/svn/lanouhn04/team10/DressMatch/DressMatch/ThirdPart/AFNetworking</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>78c70b76-848c-4f24-a5c4-52142edf5036++980</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>78c70b76-848c-4f24-a5c4-52142edf5036++980</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AFNetworking</string>
+		</dict>
+	</array>
+</dict>
+</plist>
